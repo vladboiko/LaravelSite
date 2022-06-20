@@ -1,0 +1,544 @@
+		<h4><p style="text-indent:30px">Для демонстрации своих навыков и умений я создал этот сайт. Как создавать сайты правильно, как писать брифы и составлять техническое задание, составлять семантическое ядро и т.д., об этом написано много в интернете. И это надо учить! Потому что, хоть идея это важная часть проекта, не менее важны реализация, а главное продвижение. Например, идеи создать социальную сеть или приложение для обмена сообщениями, или, не дай Бог и прости Господи, для обмена  фото, эти идеи просто напрашивались сами собой. И вариантов каждой идеи есть немало. Но реализация и продвижение, да и "случай, Бог изобретатель",  тут сыграли наверное более важную роль. Но это отступление. Продолжим.
+<p style="text-indent:"30px"'>Шаги для создания вебсайта:
+Составляем вопросы:
+<ol>
+<li>Тема сайта или тип сайта -портфолио, визитка, лендинг, интернет-магазин, корпоративный сайт, портал.
+<li>Для чего создан сайт – цель создания сайта.
+<li>Для кого создан сайт – целевая аудитория.
+<li>Кем создан сайт – разработчики.
+<li>Инструменты для создания сайта.
+</ol>
+<p style="text-indent:30px">Отвечаем на поставленные вопросы.
+<p style="text-indent:30px">Цель: Создать самый лучший в мире сайт.  Все! Чтобы был это чудесный по дизайну, великолепный по наполнению, точный и истинный по смыслу,  с интуитивно-понятным человеко-машинным интерфейсом бесплатный сайт. И чтобы на все-все вопросы он отвечал еще до того, как вопрос был даже сформирован в голове вопрошающего.  Вот как-то так! Почти как поисковый движок гу-угле или  википедия , не к ночи была упомянута!  
+<p style="text-indent:30px">Нет, дорогие вы мои читатели! Нет, нет и еще раз нет. Не успел я написать и двух строчек, а голова родила такую мысль, как будто я уже написал целую книгу, тома два, и пишу к читателям - дорогие читатели! Если вам нравится читать книги, написанные гением, то покупайте мои книги, платите за них и тогда я еще напишу что-нибудь гениальное. А если хотите читать этих бездарей, не покупайте мои книги, сморите этих блогерей и блогерейш, создавайте им количество просмотров  и лайкайте их бездарные и бездушые творения. )))  \
+<p style="text-indent:30px">Да, мы люди и мы так думаем. Может не так  уж откровенно, но по смыслу так. Так что не будем делать  секрет, что сайты создают для того, чтобы извлечь какую-нибудь выгоду. Лендинги создают для того чтобы прорекламировать какой-то новый продукт. Интернет-магазины понятно для чего - для общения покупателей и продавцов с целью покупки или продажи товара или услуги. При этом общение нередко происходит без участи человека со стороны магазина. Да, я загнул, контроль все-таки человеком выполняется. Но это все пока не наступила эра "беспонтового" общения - это когда нет понтанутого продавца, считающего себя  гуру в отношениях между им и покупателем. Нет понтов, а есть беспристрастный и терпеливый компьютер. Не интеллект, нет. Просто компьютер - клик->отклик.  Но это тоже отвлеклись, люблю быть гуру в отношениях.))) Продолжим.
+ Корпоративные сайты играют не только имиджевую или рекламную роль, но и  открывают доступ к техничкой документации разного уровня.  Что стало, наконец-то, тем, что так долго ждали настоящие гуру - инженеры и просто толковые люди. Еще вид веб сайтов это социальные сети. Да-да, знаю. Это не только вебсайт и не только веб приложение. Это программно-аппаратный комплекс, созданный и функционирует!!!  для того, чтобы передавать, принимать, а также, прикиньте, сохранять ваши никчем... суперские, нафиг никому не нуж..., обогащающие человечество величайшими знаниями, заложенными в ваших сообщениях и  бессмысл..., наполняющие смыслом, скрытым за каждым словом, а, к черту ложную скромность - правильно! ?- за каждой буквой вашего сообщения. Извините, что  "ваши" пишу с маленькой буквы. Написал и рука не поднимается исправлять свое творение. Еще существуют всякого рода развлекательные и игровые веб приложения. В любом случае, все эти разработки сделаны для получения выгоды. Увы! Даже религиозные сайты созданы для того, чтобы привлечь больше внимания, а значит и получить  больше выгоды. 
+<p style="text-indent:30px">Еще раз Увы! Но для нашего мира создать что-то и получить выгоду это нормально. Это хорошо, правда!? 
+<p style="text-indent:30px">Так вот, весь свой опус я сочинил для того, чтобы оправдать себя - я создаю этот сайт, чтобы получить выгоду. Есть, правда, одно но - в моем случае очень часто получить выгоду это значит - "не получить по морде"!))) Про меня и мою жизнь можете прочитать <a href = "#">тут </a> Только это чтиво не для всех - "стесняюся" я. Только доверенным людям. Так для чего же я создаю этот сайт?
+<p style="text-indent:30px">Упорядочить свои знания и навыки. Выяснить пробелы в знаниях и навыках. Да, это важно. Мне 53 года и раз уж я жив, то необходимо сделать анализ и соответствующие выводы.
+<p style="text-indent:30px">Рассказать о себе и своих навыках потенциальным работодателям. Да, ищу работу с более высокой заработной платой. Нынешняя ЗП меня совсем не устраивает, не потому что маленькая, а потому что деньги нужны!))) И еще раз Увы мне! Но не надо отрываться от реальности.
+<p style="text-indent:30px">Просто люблю что-то делать, в идеале решать интересные задачи или создавать что-либо интересное, да  и просто креативить, в том числе и головой и руками. Ногами нет, левой еще могу где-то скреативить средний ближе к лоу-кику, а правой нет - болит подъем ноги  сильно, когда по мешку креативью.))
+<p style="text-indent:30px">Есть мысль - создать свой проект, startup. Про что,  не скажу. Сам еще не знаю.
+<p style="text-indent:30px">А вот этот пункт серьезный - есть кое-что рассказать и показать. Особенно про здоровье, про отношения, про работу - как я решал задачи и разбирался с вызовами. Серьезными вызовами. Это полезно многим, если не всем. Тут недавно видел блогера и блогершу. Одно залезло на брусья и сделал уголок с горем пополам, а другое в это время его снимало на фото. Быстренько так сфоткались и все. Вот хочу найти в интернете  под названием Я крутая спортсменка или Как я вырвалась из лап смерти. Я так понял, свыше мне указали, что если я не покажу миру свои скиллы, то мир будет смотреть скиллы таких вот блогеров. Иначе для чего то, что видели мы, я понять не могу. Ну а для чего мне этот случай был показан?
+Я ж тоже, типа, этот, Почти блогер. Или скоро блогер.
+<p style="text-indent:30px">Ну и в идеале конечная цель  -  найти себе работу или создать рабочее место.
+Целевая аудитория: 
+<p style="text-indent:30px">Все
+<p style="text-indent:30px">Работодатели:
+<li>Промышленные предприятия – инженер-электроник.</li>
+<li>IT – сектор – инженер-программист.</li>
+
+Разработчики:
+Разработано лично мной по следующим причинам:
+<p style="text-indent:30px">Необходимость прокачать навыки инженера и инженера-программиста-разработчика(инженер-программист).
+<p style="text-indent:30px">Наполнять сайт толковым контентом. Вот тут проблема - мой огромный  опыт, и снова увы, устаревает.  Поэтому, работая как разработчик, как автор, я, надеюсь, буду прокачивать свои скиллы
+<p style="text-indent:30px">Теперь составляем техническое задание. Техническое задание составляет проект менеджер и описание процесса тема отдельной главы. Здесь я кратко описываю, как я создавал сайт. Поэтому,  считаем, что тех задание разработали и получили. Теперь приступам к реализации проекта.
+<p style="text-indent:30px">Итак, что это за вебсайт. Часть 1. Портфолио. Часть 2. Интернет-магазин для продажи своих разработок. Что хочу сказать. Вряд ли у меня что-то получится, но делать я буду. Уж коли решил, то иди до конца. И  вероятно, что магазин превратится просто в раздачу бесплатно. Так я уже как-то поступал -работая инженером по ремонту компьютеров и периферии, собрал дофига разного рода электронных устройств, от электронных схем, например, низковольтных и высоковольтных импульсных блоков питания, мониторов, матриц, принтеров и так далее. И долго хранил их, все норовил пристроить их куда-нибудь. В итоге, все раздал. Да так это все понравилось, что отдал даже стиральную рабочую машину LG с прямым приводом и отличную коляску детскую - уговорил своих не продавать, а просто отдать куму нужно. И отдали, нашли семью с 3 детьми и отдали. В придачу, кучу детских вещей. ))) Так что, судя по всему, тоже ждет меня и тут. Да и на здоровье.
+<p style="text-indent:30px">С помощью чего будем разрабатывать веб сайт:
+<p style="text-indent:30px">Инструменты:
+Текстовый редактор Notepad++ - бесплатный, с кучей приятных горячих клавиш и возможностью подключать плагины. Один только ctrl+D чего стоят. ИлиShift+Tab.  А с учетом того, что структуру  сайта создает фрэймворк  Laravel, То это редактор вообще крутой инструмент. Конечно, всякие вебphpштормы и тд. круты, но они стоят денег.
+Package OpenServer - для базы данных MySQL. Phpmyadmin мне нравится - от создания базы данных и таблиц, до создания реляционной базы данных и выполнения сложных SQL запросов и управления привилегиями. Просто и круто. 
+Language programming:
+HTML5&CSS3 &JS- стандарт для веб верстки и красивости или кривости.   До сих пор не люблю JS за то, что на нем делают крутые вещи, которые раньше делали с помощью CSS. Но признаю - JS это круто. Прокачаю.
+Bootstrap - крутая вещь для адаптивной верстки.
+PHP + Laravel -  Без laravel  я писал сайт на чистом PHP. Yii пробовал, но как то все ускользало от меня - не та работу была. Laravel  с его маршрутизацией и  контроллерами, а главное, с возможностью выполнения php кода прямо в шаблоне, вьюшке ну и в контроллере, понятно - это то, что надо. И шаблонизатор Blade мне тоже нравится.
+Ну а интернет магазин или соцсеть, я еще не решил, будем писать на Java + Spring или еще какой фрэймворк. По ходу решим.
+Ах да, Искусственный интеллект тоже будет. Python. Посмотрим, так ли он хорош.
+Для проверки нашего сайта будем хакать с помощью все того, что имеет KaliLinux. А может Parrot хватит. Но опишем каждый наш шаг.
+Выбрали. Как разрабатывать. Начнем с контента, с того, чем будем сайт наполнять. И хранить будем в базе данных. Начнем с MySQL. Дальше подтянем PostgreSQL, Mongo. Там посмотрим. Но проверил, база данных MySQL не для того,  чтобы хранить в ней тяжеловесную графику. Поэтому, проблема. Будем решать по мере реализации проекта - ссылки в базе, сами материалы на диске. Вот и поставь дешевый SSD диск. Ага. Привет HDD! А может  диски блюрей! Попросить у Цукерберга парочку десятков штук. Может подарит? Как думаете?
+Вроде все описали. Доменное имя будет просто - VladimirBoiko. Или просто Boiko.  
+Теперь, как сказал товарищ Гагарин Юрий Алексеевич, я, кстати, тоже Алексеевич и это еще один знак в мою пользу,  поехали!
+<p style="text-indent:30px">Создаем laravel проект. <a href = "#">Здесь шпаргалка</a>
+Если кратко про Laravel, то это фреймворк, который все свои запросы выполняет через контроллеры. Создается класс таблицы, например, ThemeController model=Theme, и все. В контроллере для обращения к базе данных пишем $themes = Theme:: orderBy('id','desc')->get(); И передаем во вьюшку return view('theme',['themes'=>$themes]); Т.е.,  передаем полученный  массив. А в нашей вьюшке или представлении обращаемся к массиву в цикле, например, @foreach($themes as $theme)
+<pre>
+{{$theme['id']}}
+или <?php
+print($theme['id']);
+или print($theme -> id);
+?>
+<pre>
+Круто. Не менее круто маршрутизация:
+в routes/web.app
+прописываем
+Route::get('/', fubction(){
+return view('main');
+});
+Или в случае с ресурсными контроллерами Route::resource('/', ThemeController::class); правда есть разные но - придется или путь полный указывать, или прописывать класс.
+
+composer create-project --prefer-dist laravel/laravel myproject
+
+Для создания authentiphication можно установить пакет  fortify:
+	
+	Для начала установите Fortify с помощью менеджера пакетов Composer в свой проект:
+
+composer require laravel/fortify
+Затем, опубликуйте ресурсы Fortify с помощью команды vendor:publish:
+
+php artisan vendor:publish --provider="Laravel\Fortify\FortifyServiceProvider"
+
+Эта команда опубликует действия Fortify в вашем каталоге app/Actions, который будет создан, если он не существует. Кроме того, будет опубликован конфигурационный файл и миграции.
+В laravel 8.x обходимся  без установки всяких доп пакетов пакетов.
+Затем нужно выполнить миграции вашей базу данных:
+php artisan migrate
+<p style="text-indent:30px">
+Если появляется ошибка Errors with migartions SQLSTATE[42000]: Syntax error or access violation: 1071 -  если я правильно понял, ошибка в случае разных версий MySQL и PHP. Не разбирался, не интересно было тогда. Нашел решение и вперед
+<p style="text-indent:30px">
+Решение:
+Надо добавить к  app/providers/ AppServiceProvider.php 
+use Illuminate\Support\Facades\Schema;
+Schema::defaultStringLength(191);
+После, удалить таблицы users и migrations, которые, скорее всего будут созданы в  вашей базе данных.
+Illuminate\Database\QueryException  : SQLSTATE[42S01]: Base table or view already exists:
+и тогда
+ Database migration created successfully
+php artisan migrate
+Установим пакет User  Interface 
+ Next ui
+ https://www.codegrepper.com/code-examples/php/laravel+8+ui+auth
+ composer require laravel/ui 
+php artisan ui bootstrap --auth 
+npm install && npm run dev
+Далее,  выполняем 
+npm run prod
+для обновления в режиме реального времени.
+ Теперь установим пакет для разграничения прав доступа:
+ Например, Spatie
+ Package spatie https://spatie.be/docs/laravel-permission/v5/installation-laravel
+  composer require spatie/laravel-permission    - installing package
+ Добавляем провайдера в config/app.php
+ 
+  Spatie\Permission\PermissionServiceProvider::class,
+  
+  You should publish the migration and the config/permission.php config file with:
+
+php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider"
+
+ php artisan config:clear
+
+ php artisan migrate
+Используя  artisan commands 
+мы можем создавать роли или разрешения прямо из консоли используя artisan
+<pre>
+php artisan permission:create-role writer
+
+<p style="text-indent:30px">Также можем создать роль admin:
+<p style="text-indent:30px">
+php artisan permission:create-role admin
+
+И в app->Controllers->Auth->RegistrControler.php
+function create (array $data){
+$user = User::create([
+            'name' => $data['name'],
+            'email' => $data['email'],
+            'password' => Hash::make($data['password']),
+        ]);
+$user->assignRole('writer');
+	return $user;
+}
+Добавим к User from Models add use HasRoles;  and use Spatie\Permission\Traits\HasRoles;		
+We create route
+
+Route::get('test',function(){
+return view('test');
+});
+
+Then, 
+Using a middleware
+
+Route::group(['middleware' => ['role:admin']], function () {
+   
+Route::get('test',function(){
+return view('test');
+});
+
+});
+
+Package Middleware
+This package comes with RoleMiddleware, PermissionMiddleware and RoleOrPermissionMiddleware middleware. You can add them inside your app/Http/Kernel.php file.
+
+protected $routeMiddleware = [
+    // ...
+    'role' => \Spatie\Permission\Middlewares\RoleMiddleware::class,
+    'permission' => \Spatie\Permission\Middlewares\PermissionMiddleware::class,
+    'role_or_permission' => \Spatie\Permission\Middlewares\RoleOrPermissionMiddleware::class,
+];
+
+ And now we can set permition for any user and any page or article
+ </pre>
+Все. Проект создан. Роли есть, можно посмотреть в DB.
+Да. В файле .env нужно установить правильные значения для доступа к базе данных. Database = mysql,login = root, password=root
+//==============================================================
+Дальше нужно разработать админ панель. Мы возьмем готовую и адаптируем ее. Потому как самому разрабатывать время.
+Part 3.
+Download adminLTE
+source code
+create in folder Controllers folder Admin
+In folder views -> layouts create file admin_layout.blade.php
+From index.html of rar adminLTE to admin_layout.blade.php
+To folder views->admin need to copied plugin and dist
+Change href = plugins/... href = admin/plugins, src = plugins and dist
+//=========================
+Create controllers in admin:
+	php artisan make:controller admin/homecontroller
+	Then, in HomeController
+	public function index(){
+	return view('admin.home.index');
+	}
+	
+	In route
+	
+Route::middleware(['role:admin'])->prefix('admin_panel')->group( function () {
+Route::get('/', [App\Http\Controllers\Admin\HomeController::class, 'index']);//admin
+//Route::get('/test',);//test/admin
+});
+
+use App\Models\Post;
+$posts_count = Post::all()->count();
+return view('admin.home.index',['posts_count']=>$posts_count);
+
+<h3>{{$posts_count}}</h3>
+//===================================
+Create Category, then create controller 
+php artisan make:controller Admin/CategoryController --resource --model=Category
+php artisan make:controller Admin/UserController --resource --model=User
+php artisan make:controller Front/MainController --resource --model=Main
+php artisan make:controller Admin/SolutionController --resource --model=Solution
+php artisan make:controller Front/WelcomeController --resource --model=Welcome
+
+Route:
+ Route::resource("category", App\Http\Controllers\Admin\CategoryController::class);
+ 
+ Create categorie All and Create in folder admin. 
+ In CategoryControler create and index 
+ <p style="text-indent:30px">
+ in Index.blade.php
+<pre>
+  <tbody>
+			  @foreach($categories as $category)	
+                  <tr>
+                      <th style="width: 1%">
+              {{$category['id']}}
+                      </th>
+                      <th style="width: 20%">
+                   {{$category['title']}}
+                      </th>
+                      <th style="width: 30%">
+				{{$category['Description']}}
+                      </th>
+                
+                 
+                      <td class="project-actions text-right">
+                          <a class="btn btn-primary btn-sm" href="#">
+                              <i class="fas fa-folder">
+                              </i>
+                              View
+                          </a>
+                          <a class="btn btn-info btn-sm" href="#">
+                              <i class="fas fa-pencil-alt">
+                              </i>
+                              Edit
+                          </a>
+                          <a class="btn btn-danger btn-sm" href="#">
+                              <i class="fas fa-trash">
+                              </i>
+                              Delete
+                          </a>
+                      </td>
+                  </tr>
+                  
+              </tbody>
+			    @endforeach 
+	</code>
+			
+				in create.blade.php
+<code>
+				@section('content')
+	<div class="content-wrapper" style="min-height: 1774px;">
+	@if(session('success'))
+		<div class="alert alert-success" role="alert">
+	<button type="button" class="close" data-dismiss="alert" aria-hidden>
+	<h4><i class="icon fa fa-check"></i>{{session('success')}}</h4>
+	</div>
+	@endif
+	
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-8">
+          <div class="col-sm-8">
+            <h1>Project Add</h1>
+          </div>
+          <div class="col-sm-8">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item active">Project Add</li>
+            </ol>
+          </div>
+        </div>
+      </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="card card-primary">
+            <div class="card-header">
+              <h3 class="card-title">General</h3>
+
+            </div>
+			<form action = "{{route('category.store')}}" method="POST">
+			@csrf
+            <div class="card-body">
+              <div class="form-group">
+                <label for="inputName">Project Name</label>
+                <input type="text" name = "title" id="inputName" class="form-control" required>
+              </div>  
+			  
+			  <div class="form-group">
+                <label for="inputDescription">Description</label>
+                <input type="text" name = "description" id="inputName" class="form-control" required>
+              </div>
+        
+              <div class="form-group">
+                <label for="inputStatus">Status</label>
+                <select class="form-control custom-select">
+                  <option selected="" disabled="">Select one</option>
+                  <option>On Hold</option>
+                  <option>Canceled</option>
+                  <option>Success</option>
+                </select>
+              </div>
+          
+            </div>
+            <!-- /.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+      
+      </div>
+      <div class="row">
+        <div class="col-8">
+          <a href="#" class="btn btn-secondary">Cancel</a>
+          <input type="submit" value="Create new Porject" class="btn btn-success float-right">
+        </div>
+      </div>
+	  </form>
+    </section>
+    <!-- /.content -->
+  </div>
+@endsection
+</code>
+Controller
+<code>
+<?php
+
+namespace App\Http\Controllers\Admin;
+
+use App\Http\Controllers\Controller;
+use App\Models\Category;
+use Illuminate\Http\Request;
+
+class CategoryController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+		$categories = Category::orderBy("created_at","desc")->get();
+		
+       return view("admin.category.index",['categories'=>$categories]);
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        return view("admin.category.create");
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request)
+    {
+        $new_category = new Category();
+		$new_category ->title=$request->title;
+		$new_category ->description=$request->description;
+		$new_category -> save();
+		return redirect()->back()->withSuccess('Category was success add');
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function show(Category $category)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function edit(Category $category)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, Category $category)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy(Category $category)
+    {
+        //
+    }
+}
+</code>
+Route
+
+
+Route::middleware(['role:admin'])->prefix('admin_panel')->group( function () {
+Route::get('/', [App\Http\Controllers\Admin\HomeController::class, 'index']);//admin
+Route::resource("category", App\Http\Controllers\Admin\CategoryController::class);
+
+});
+
+//============================================================================
+For edit and create
+Controller
+<?php
+
+namespace App\Http\Controllers\Admin;
+
+use App\Http\Controllers\Controller;
+use App\Models\Category;
+use Illuminate\Http\Request;
+
+class CategoryController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+		$categories = Category::orderBy("created_at","desc")->get();
+		
+       return view("admin.category.index",['categories'=>$categories]);
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+		
+		$categories = Category::orderBy("created_at","desc")->get();
+        return view("admin.category.create",['categories'=>$categories]);
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request)
+    {
+        $new_category = new Category();
+		$new_category ->title=$request->title;
+		$new_category ->description=$request->description;
+		$new_category -> save();
+		return redirect()->back()->withSuccess('Category was success add');
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function show(Category $category)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function edit(Category $category)
+    {
+		
+		$categories = Category::orderBy("created_at","desc")->get();
+		
+        return view("admin.category.edit", ['category'=>$category , 'categories'=>$categories]);
+    }
+    
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, Category $category)
+    {
+       $category -> title= $request->title;
+       $category -> description= $request->description;
+	    $category->save();
+		return redirect()->back()->withSuccess('Category was success editting');
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy(Category $category)
+    {
+        //
+    }
+}
+</pre>
+//==============================
+index.blade.php
+create.blade.php
+		
