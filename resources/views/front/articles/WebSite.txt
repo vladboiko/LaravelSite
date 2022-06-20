@@ -1,0 +1,549 @@
+		<p style="text-indent:50px">	Тема проекта - сайт-портфолио инженера.
+<h4><p style="text-indent:30px">Для демонстрации своих навыков и умений я создал этот сайт. Понятно что это далеко не первый мой проект. Но для этого сайта и всего проекта в целом, это будет первый проект! Первая задача, первая статья, первая реализация.  
+<p style="text-indent:50px">Вторая причина следующая.
+<p style="text-indent:50px"> После просмотра нескольких ресурсов, в том числе видео, у меня сложилось впечатление, что используя фреймворк, некоторые авторы этих ресурсов не понимают ни что такое ООП, ни что такое фреймворк. Когда я смотрю видео и вижу как автор, для того, чтобы узнать синтаксис, например, маршрута, ищет документацию, хотя здесь очевидно, что идет простое обращение к методу класса, то я хочу ругаться, причем матом! И только благодаря моему благородному происхождению, великолепному образованию и невероятной природной и годами выработанной выдержке, я сдерживаю себя. 
+ <p style="text-indent:50px">Подозреваю, что ООП в целом и то, что касается PHP в частности, многие ютуберы не понимают. 
+ 
+<p style="text-indent:30px"> Как создавать сайты правильно, как писать брифы и составлять техническое задание, составлять семантическое ядро и т.д., об этом написано много в интернете. И это надо учить! И практиковать. Потому что, хоть идея это важная часть проекта, не менее важны реализация, а главное продвижение. Например, идеи создать социальную сеть или приложение для обмена сообщениями, или, не дай Бог и прости Господи, для обмена  фото, эти идеи просто напрашивались сами собой. И вариантов каждой идеи есть немало. Но реализация и продвижение, да и "случай, Бог изобретатель",  тут сыграли наверное более важную роль. 
+<p style="text-indent:50px">Так что, надо учить, читать и следовать заветам старших. Но я учить не буду и тем более следовать их заветам. Я просто буду брать и делать! Беру и делаю. Когда-нибудь я напишу все об айти сфере. А может и не напишу...
+  <p style="text-indent:50px"> Здесь я не буду расписывать каждый шаг по  созданию вебсайта. Все это есть на множестве ресурсов. Да и документация по какому-нибудь фреймворку хороший помощник. Здесь же я хочу писать только полезный контент. А полезный контент это не описание. Это решение конкретных задач и  исправление ошибок.
+<p style="text-indent:50px">Моя шпаргалка по созданию сайта.
+<p style="text-indent:50px">В общем и целом, шаги по созданию веб сайта могут быть следующими:
+1. Нужен дизайн сайта - нарисовать или взять готовый или использовать макет:
+ <p style="text-indent:50px">щапка, контент левая сторона -> левое меню;
+<p style="text-indent:50px"> контент центр;
+<p style="text-indent:50px"> контент правая сторона -> баннеры или авторизация;
+<p style="text-indent:50px">подвал с выходными данными.
+<p style="text-indent:50px">При этом фон совершенно белый, или серый, или черный или еще какой;
+<p style="text-indent:50px">Цвет текста тоже на вкус, но предлагаю выбирать цвета в соответствии с цветовым кругом дизайнеров.
+<p style="text-indent:50px">Ну или делаем рисунок, редактируем его в фотошопе, определяем шрифты, нарезаем для верстки и верстаем. Ничего сложного, кроме делаем  рисунок. Самый лучший рисунок, который я нарисовал это белый лист. Ну еще как вариант, черный лист. Белая тема и черная тема.  Готово. 
+<p style="text-indent:50px">Для верстки используем фрэймворк boostrap. Все, что нам надо, формы, кнопки, вкладки и т.д., все есть у bootstrap как готовое решение.  Верстаем, подключаем bootstrap. Готово
+  <p style="text-indent:50px">Готово, в смысле, берем готовый html-шаблон, бесплатный или платный и адаптируем. Читать  лицензию обязательно и выполнять ее требования. 
+  <p style="text-indent:50px">Итак, адаптивный, кроссбраузерный  шаблон есть. Оставляем его на пока.
+  <p style="text-indent:50px">Теперь создаем структуру сайта. Доверим эту работу фреймворку. Например, laravel. PHP фреймворк, с шаблонизатором Blade, и простой маршрутизацией. Работа фреймворка основана на контроллерах - все работу, все обращения, ссылки и т.д. выполняются через контроллеры. Но, предварительно установим два программных продукта. Один Composer - менеджер зависимостей для PHP, второй NPM - менеджер пакетов JavaScript.  С обоими двумя можно работать в командной строке и это упрощает работу разработчика до уровня - я думаю над работой приложения, а не как его заставить работать. Классная штука.
+  <p style="text-indent:50px">Далее, для хранения данных будем использовать базу данных. Например, MySQL. Установить надо. Если у кого стоит пакет OpenServer или Denver, можно просто запускать их. База данных есть уже. 
+  <p style="text-indent:50px">Значит, MySql установлена, доступ настроен, пароли, логины, порты известны. 
+  <p style="text-indent:50px">Еще нам надо определиться с инструментами, с помощью которых  и будем создавать наш, не побоюсь этого слова, шедевральный сайт.
+<p style="text-indent:50px">Текстовый редактор Notepad++ - бесплатная версия, с кучей приятных горячих клавиш и возможностью подключать плагины. Один только ctrl+D чего стоят. Или Shift+Tab.  А с учетом того, что структуру  сайта создает фрэймворк  Laravel, то этот редактор вообще крутой инструмент. Конечно, всякие вебphpштормы и т.д. круты, но они стоят денег.
+<p style="text-indent:50px">Package OpenServer - для базы данных MySQL, как я уже сказал. Просто у меня он есть всегда. Phpmyadmin мне нравится - от создания базы данных и таблиц, до создания реляционной базы данных и выполнения сложных SQL запросов и управления привилегиями. Просто и круто. Но я это все использую для тстирования и проверки. 
+<p style="text-indent:50px">Language programming:
+<p style="text-indent:50px">HTML5&CSS3 &JS- стандарт для веб верстки и красивости или кривости.   До сих пор не люблю JS за то, что на нем делают крутые вещи, которые раньше делали с помощью CSS. Но признаю - JS это круто. Прокачаю, может быть. А может и нет. Совсем не обязательно, если не хочешь повесить браузер.
+<p style="text-indent:50px">Bootstrap - крутая вещь для адаптивной верстки. 
+<p style="text-indent:50px">PHP + Laravel -  без laravel  я создавал себе и не только сайты на чистом PHP. Laravel  с его маршрутизацией и  контроллерами, а главное, с возможностью выполнения php кода прямо в шаблоне, вьюшке ну и в контроллере, понятно - это то, что надо. Ну про вьюшку я погорячился. А шаблонизатор Blade мне тоже нравится.
+<p style="text-indent:50px">Ну а интернет магазин или соцсеть, я еще не решил, будем писать на Java + Spring или еще какой фрэймворк. А может и на PHP. По ходу решим.
+<p style="text-indent:50px">Ах да, Искусственный интеллект тоже будет. Python. Посмотрим, так ли он хорош.
+Для проверки нашего сайта будем хакать с помощью все того, что имеет KaliLinux. А может Parrot хватит. Но опишем каждый наш шаг.
+  <p style="text-indent:50px">Выбрали. Как разрабатывать.   
+<p style="text-indent:50px">Начнем с контента, с того, чем будем сайт наполнять. И хранить будем в базе данных. Начнем с MySQL. Дальше подтянем PostgreSQL, Mongo. Там посмотрим. База данных MySQL не для того,  чтобы хранить в ней тяжеловесную графику. Поэтому, проблема. Будем решать по мере реализации проекта - ссылки в базе, сами материалы на диске.
+<p style="text-indent:50px">Вроде все описали. Доменное имя будет простое, но гениальное - VladimirBoiko. Или просто Boiko.  
+<p style="text-indent:50px">Теперь, как сказал товарищ Гагарин Юрий Алексеевич, я, кстати, тоже Алексеевич и это еще один знак в мою пользу,  - Поехали!
+  <p style="text-indent:50px">Выполнили всю подготовительную работу. Вот теперь можно заняться проектом. 
+<p style="text-indent:50px">Создаем проект на Laravel. Для этого в командной строке набираем следующие команды:
+<code><p>
+composer create-project --prefer-dist laravel/laravel VladimirBoiko
+</code><p>
+<p style="text-indent:50px">Наш проект создан и находится в каталоге VladimirBoiko
+  <p style="text-indent:50px">Дальше переходим в наш проект и устанавливаем все остальные пакеты, например, авторизация, создаем таблицы, миграции. Кстати, говорят, что создавать таблицы лучше и правильно через artisan, а не через PhpMyAdmin. Согласен. 
+Для создания authentiphication можно установить пакет  fortify. 
+	Для начала установите Fortify с помощью менеджера пакетов Composer в свой проект:
+composer require laravel/fortify
+Затем, опубликуйте ресурсы Fortify с помощью команды vendor:publish:
+<code><p>
+php artisan vendor:publish --provider="Laravel\Fortify\FortifyServiceProvider"
+</code><p>
+<p style="text-indent:50px">Эта команда опубликует действия Fortify в вашем каталоге app/Actions, который будет создан, если он не существует. Кроме того, будет опубликован конфигурационный файл и миграции.
+Затем добавляем красивости, устанавливаем нужные пакеты с помощью npm. Все они в папке node_modules. Можно будет потом удалить всесь этот огромадный каталог.
+Затем нужно выполнить миграции вашей базу данных:
+<code><p>
+php artisan migrate
+</code><p>
+<p style="text-indent:30px">Тут я нарвался. Начинал на одном компе, продолжил на другом и получил ошибку. Вот если появляется ошибка Errors with migartions SQLSTATE[42000]: Syntax error or access violation: 1071 -  если я правильно понял, ошибка в случае разных версий MySQL и PHP. Не разбирался, не интересно было тогда. Нашел решение и вперед
+<p style="text-indent:30px">Решение:
+Надо добавить к  app/providers/ AppServiceProvider.php 
+<code><p>
+use Illuminate\Support\Facades\Schema;
+Schema::defaultStringLength(191);
+</code><p>
+После, удалить таблицы users и migrations, которые, скорее всего были созданы в  вашей базе данных когда вы первый раз применяли migration.
+<code><p>
+Illuminate\Database\QueryException  : SQLSTATE[42S01]: Base table or view already exists:
+</code><p>
+и тогда
+ <code><p>
+ Database migration created successfully
+ </code><p> и выполняем
+ <code><p>
+php artisan migrate
+ </code><p>
+Установим пакет User  Interface
+<code><p> 
+   Next ui
+   https://www.codegrepper.com/code-examples/php/laravel+8+ui+auth
+  composer require laravel/ui 
+  php artisan ui bootstrap --auth 
+  npm install && npm run dev
+  </code><p>
+  Далее,  выполняем 
+  <code><p>
+  npm run prod
+</code><p>
+  <p style="text-indent:50px"> Теперь установим пакет для разграничения прав доступа:
+   Например, Spatie
+ Пакет Spatie здесь - https://spatie.be/docs/laravel-permission/v5/installation-laravel
+ <code><p>
+    <p style="text-indent:50px">composer require spatie/laravel-permission    - installing package
+ </code><p>
+  <p style="text-indent:50px"> Добавляем провайдера в config/app.php
+ 
+ <code><p>
+   <p style="text-indent:50px"> Spatie\Permission\PermissionServiceProvider::class,
+ </code><p>
+   <p style="text-indent:50px"> Публикуем migration and the config/permission.php config file with:
+  <code><p>
+  php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider"
+  
+   <p style="text-indent:50px">php artisan config:clear
+   <p style="text-indent:50px">php artisan migrate
+</code><p>
+Используя  artisan commands 
+мы можем создавать роли или разрешения прямо из консоли используя artisan
+<code><p>
+php artisan permission:create-role writer
+</code><p>
+
+<p style="text-indent:30px">Также можем создать роль admin:
+<p style="text-indent:30px">
+<code><p>
+php artisan permission:create-role admin
+
+И в app->Controllers->Auth->RegistrControler.php
+function create (array $data){
+$user = User::create([
+            'name' => $data['name'],
+            'email' => $data['email'],
+            'password' => Hash::make($data['password']),
+        ]);
+$user->assignRole('writer');
+	return $user;
+}
+</code><p>
+Добавим к User from Models add 
+<code><p>
+use HasRoles;
+  and use Spatie\Permission\Traits\HasRoles;		
+</code><p>
+We create route
+<code><p>
+Route::get('test',function(){
+return view('test');
+});
+</code><p>
+
+Then, 
+Using a middleware
+<code><p>
+Route::group(['middleware' => ['role:admin']], function () {
+   
+Route::get('test',function(){
+return view('test');
+});
+
+});
+</code><p>
+
+Устанавливаем  пакет Middleware
+Этот пакет идет с разрешениями RoleMiddleware, PermissionMiddleware and RoleOrPermissionMiddleware middleware. Мы можем добавить их внутри нашего файла app/Http/Kernel.php.
+<code><p>
+protected $routeMiddleware = [
+    // ...
+    'role' => \Spatie\Permission\Middlewares\RoleMiddleware::class,
+    'permission' => \Spatie\Permission\Middlewares\PermissionMiddleware::class,
+    'role_or_permission' => \Spatie\Permission\Middlewares\RoleOrPermissionMiddleware::class,
+];
+
+</code><p>
+ And now we can set permition for any user and any page or article
+<p style="text-indent:50px">Теперь мы можем добавлять и устанавливать разрешения для любого пользователя, любой статьи или страницы. 
+<p style="text-indent:50px">Все. Проект создан. Роли есть, можно посмотреть в DB.
+Да. В файле .env нужно установить правильные значения для доступа к базе данных. 
+<code><p>
+Database = mysql
+login = root
+password=root
+</code><p>
+//==============================================================
+<p style="text-indent:50px">Дальше нужно разработать админ панель. Мы возьмем готовую и адаптируем ее. Потому как самому разрабатывать время. Ага, время! Сложно! Поэтому берем готовую.
+<p style="text-indent:50px">Самая первая моя adminLTE. Но есть намного лучше.
+<p style="text-indent:50px">Я в рабочий свой проект буду другую встраивать.
+Часть 3.
+<p style="text-indent:50px">Скачиваем adminLTE исходник.
+<p style="text-indent:50px">А каталоге views -> layouts create file admin_layout.blade.php
+<p style="text-indent:50px">Теперь из index.html в архиве adminLTE копируем в admin_layout.blade.php
+<p style="text-indent:50px">В каталог views->admin копируем plugin and dist
+Меняем href = plugins/... в href = admin/plugins, src = plugins and dist
+Так никогда не делайте! 
+А делайте так:
+href ="{{asset('admin/plugins/....')}}"
+ Здесь с командой asset устанавливаем относительный путь и при этом команда привязывается к нашему приложению. В итоге мы получаем абсолютный путь. 
+//=========================
+Теперь создаем контроллер HomeController в каталое admin:
+<code><p>
+	php artisan make:controller admin/homecontroller
+</code><p>
+	Затем в HomeController пишем 
+	<code><p>
+	public function index(){
+	return view('admin.home.index'); // Создаем index.blade.php в  каталоге 		
+									//admin/home/index.blade.php
+	}
+	</code><p>
+	
+	<p style="text-indent:50px">Создаем маршрут
+	<code><p>
+Route::middleware(['role:admin'])->prefix('admin_panel')->group( function () {
+Route::get('/', [App\Http\Controllers\Admin\HomeController::class, 'index']);//admin
+//Route::get('/test',);//test/admin
+});
+	</code><p>
+
+//===================================
+<p style="text-indent:50px">Теперь создаем контроллеры в созданном каталоге Category:
+<code><p>
+php artisan make:controller Admin/CategoryController --resource --model=Category
+php artisan make:controller Admin/UserController --resource --model=User
+php artisan make:controller Front/MainController --resource --model=Main
+php artisan make:controller Admin/SolutionController --resource --model=Solution
+php artisan make:controller Front/WelcomeController --resource --model=Welcome
+</code><p>
+
+<p style="text-indent:50px">Маршруты :
+<code><p>
+ Route::resource("category", App\Http\Controllers\Admin\CategoryController::class);
+
+</code><p>
+
+ <p style="text-indent:50px">In CategoryControler create and index 
+ <p style="text-indent:30px">В allArticles.blade.php
+<code><p>
+  tbody
+			  @foreach($categories as $category)	
+                  tr>
+                      th style="width: 1%">
+              {{$category['id']}}
+                      /th>
+                      th style="width: 20%">
+                   {{$category['title']}}
+                      /th>
+                      th style="width: 30%">
+				{{$category['Description']}}
+                      /th>
+                      ...
+					  
+                  /tr>
+                  
+              /tbody>
+			    @endforeach 
+</code>p>
+			
+<pre>	
+	Создаем create.blade.php пишем:
+<code><p>
+				@section('content')
+	div class="..."
+	@if(session('success'))
+		div class="alert alert-success" role="alert"
+	button type="button" class="close" data-dismiss="alert" aria-hidden
+	h4i class="icon fa fa-check"/i{{session('success')}}/h4
+	/div
+	@endif
+</code>
+</pre>
+<pre>
+    !-- Content Header (Page header) --
+    section class="content-header"
+      ...
+	  li class="breadcrumb-item"a href="#"Home/a/li
+              li class="breadcrumb-item active"Project Add/li
+...
+    !-- Main content --
+   ...
+   form action = "{{route('category.store')}}" method="POST"
+			@csrf
+            div class="card-body"
+              div class="form-group"
+                label for="inputName"Project Name/label
+                input type="text" name = "title" id="inputName" class="form-control" required
+              /div  
+			  
+			  div class="form-group"
+                label for="inputDescription"Description/label
+                input type="text" name = "description" id="inputName" class="form-control" required
+              /div
+        
+              div class="form-group"
+                label for="inputStatus"Status/label
+                select class="form-control custom-select"
+                  option selected="" disabled=""Select one/option
+                  optionOn Hold/option
+                  optionCanceled/option
+                  optionSuccess/option
+                /select
+              /div
+          
+            /div
+            !-- /.card-body --
+          /div
+          !-- /.card --
+        /div
+      
+      /div
+      div class="row"
+        div class="col-8"
+          a href="#" class="btn btn-secondary"Cancel/a
+          input type="submit" value="Create new Porject" class="btn btn-success float-right"
+        /div
+      /div
+	  /form
+    /section
+    !-- /.content --
+  /div
+@endsection
+</code><p>
+
+В контроллере CategoryController пишем
+<code><p>
+<?php
+
+namespace App\Http\Controllers\Admin;
+
+use App\Http\Controllers\Controller;
+use App\Models\Category;
+use Illuminate\Http\Request;
+
+class CategoryController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+		$categories = Category::orderBy("created_at","desc")-get();
+		
+       return view("admin.category.index",['categories'=$categories]);
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+        return view("admin.category.create");
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request)
+    {
+        $new_category = new Category();
+		$new_category -title=$request-title;
+		$new_category -description=$request-description;
+		$new_category - save();
+		return redirect()-back()-withSuccess('Category was success add');
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function show(Category $category)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function edit(Category $category)
+    {
+        //
+    }
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, Category $category)
+    {
+        //
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy(Category $category)
+    {
+        //
+    }
+}
+</code<p>
+Route
+
+<code>
+Route::middleware(['role:admin'])-prefix('admin_panel')-group( function () {
+Route::get('/', [App\Http\Controllers\Admin\HomeController::class, 'index']);//admin
+Route::resource("category", App\Http\Controllers\Admin\CategoryController::class);
+
+});
+</code<p>
+//============================================================================
+ 
+Меняем в контроллере
+<code><p>
+<?php
+
+namespace App\Http\Controllers\Admin;
+
+use App\Http\Controllers\Controller;
+use App\Models\Category;
+use Illuminate\Http\Request;
+
+class CategoryController extends Controller
+{
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function index()
+    {
+		$categories = Category::orderBy("created_at","desc")->get();
+		
+       return view("admin.category.index",['categories'=>$categories]);
+    }
+
+    /**
+     * Show the form for creating a new resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function create()
+    {
+		
+		$categories = Category::orderBy("created_at","desc")->get();
+        return view("admin.category.create",['categories'=>$categories]);
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function store(Request $request)
+    {
+        $new_category = new Category();
+		$new_category ->title=$request->title;
+		$new_category ->description=$request->description;
+		$new_category -> save();
+		return redirect()->back()->withSuccess('Category was success add');
+    }
+
+    /**
+     * Display the specified resource.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function show(Category $category)
+    {
+        //
+    }
+
+    /**
+     * Show the form for editing the specified resource.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function edit(Category $category)
+    {
+		
+		$categories = Category::orderBy("created_at","desc")->get();// Обращаемся к базе данных к таблице <b>Categories</b> Laravel использует множественное наименование. Это надо помнить.
+		
+        return view("admin.category.edit", ['category'=>$category , 'categories'=>$categories]);//Возвращаем массив данных странице edit.blade.php
+    }
+    
+
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, Category $category)
+    {
+       $category -> title= $request->title;
+       $category -> description= $request->description;
+	    $category->save();
+		return redirect()->back()->withSuccess('Category was success editting'); Возвращаемся на нашу же страницу.
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     *
+     * @param  \App\Models\Category  $category
+     * @return \Illuminate\Http\Response
+     */
+    public function destroy(Category $category)
+    {
+        //
+    }
+}
+</code><p>
+</pre>
+</code>
+</code>
+</code>
+<hr>
+<p style="text-indent:50px">Подытожим.
+<p style="text-indent:50px">Создаем laravel проект
+<p style="text-indent:50px">Создаем базу данных, настраиваем доступ.
+<p style="text-indent:50px">Создаем таблицы по мере необходимости с помощью artisan make
+Добавляем в него пакет для аутентификации и создаем роли для разрешений.
+Теперь добавляем в проект шаблоны для фронтэнд и бэкэнд и адаптируем их.
+Создаем контроллеры, в том числе resource контроллеры. В них уже есть методы index, edit, create, delete, store. Остается их только модифицировать.
+ В контроллерах вызываем нужный нам вид views.index  или тот, который нам нужен и передаем туда параметры или массив параметров. В самом html шаблоне работаем с параметрами, как с переменной:
+ {{$var}}  - если переменная 
+<p style="text-indent:50px">или
+<code><p>
+ {{$var['title']}} или {{$var->title}}
+</code><p>
+ в зависимости от того, что мы получили из базы, объект или массив.
+ <p style="text-indent:50px">В контроллерах методы можно менять, создавать свои методы, удалять, не обращать внимания и т.д.
+ <p style="text-indent:50px">В описании наверняка есть ошибки, весь проект есть на github.com/vladboiko. Но, я описал направление, возможные ошибки, чтобы вы не зациклились, а дальше сами! Берете придуманную гениальную идею, например, блог! И реализуйте. В документации все остальное расписано.
+ <p style="text-indent:50px">За что я люблю laravel, на его изучение для старта я потратил несколько часов. Остальное получалось изучать в работе! 
+P.S.Я вырос в деревне, где учителя истории и географии учили нас почти всем предметам. Правда, великолепное образование?
+  <p style="text-indent:50px">Все ошибки, которые есть, я сделал намеренно, чтобы заставить думать, а главное работать. Так хотел я написать я. ))
+<p style="text-indent:50px">Не буду выеживаться. Ошибки есть и их исправлять я, наверное, буду. Может и совсем все поменяю. Перепишу из реального проекта. А может и нет!
+<p style="text-indent:50px">Всем удачи и и оплаченного трудолюбия!
+		
